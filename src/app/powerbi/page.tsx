@@ -17,6 +17,8 @@ const Page = () => {
             width="1140"
             height="541.25"
             src="https://app.powerbi.com/reportEmbed?reportId=5d4612fd-8d8f-4c9d-9bb1-02b527234099&autoAuth=true&embeddedDemo=true"
+            frameborder="0"
+            allowFullScreen="true"
           ></iframe>
         </div>
       </div>
