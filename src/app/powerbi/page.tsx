@@ -13,11 +13,10 @@ const Page = () => {
         </span>
         <div className="w-full h-96">
           <iframe
-            title="Sample Report Demo"
+            title="inventario-carros"
             width="1140"
-            height="700"
-            src="https://playground.powerbi.com/sampleReportEmbed"
-            allowFullScreen={true}
+            height="541.25"
+            src="https://app.powerbi.com/reportEmbed?reportId=5d4612fd-8d8f-4c9d-9bb1-02b527234099&autoAuth=true&embeddedDemo=true"
           ></iframe>
         </div>
       </div>
