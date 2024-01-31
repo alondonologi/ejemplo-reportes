@@ -4,8 +4,10 @@ export default function Home() {
       <div className="w-full flex flex-col gap-2">
         <h1>Ejemplo reportes</h1>
         <ul>
-          <li className="text-blue-500 underline pointer">
+          <li className="text-blue-500 underline pointer flex flex-col gap-1">
             <a href="/powerbi">PowerBI</a>
+            {/* <a href="/Google">Google Data studio</a> */}
+            <a href="/tableau">Tableau</a>
           </li>
         </ul>
       </div>

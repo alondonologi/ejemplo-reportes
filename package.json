@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@stoddabr/react-tableau-embed-live": "^0.3.26",
     "next": "14.1.0",
     "powerbi-client": "^2.22.3",
     "powerbi-client-react": "^1.4.0",
