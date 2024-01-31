@@ -11,15 +11,14 @@ const Page = () => {
             Atrás
           </a>
         </span>
-        <div className="w-full h-96 flex flex-col gap-1">
+        <div className="w-full h-96 flex flex-col gap-4">
           <p>Custom</p>
           <iframe
             title="inventario-carros"
             width="1140"
             height="800"
             src="https://app.powerbi.com/reportEmbed?reportId=5d4612fd-8d8f-4c9d-9bb1-02b527234099&autoAuth=true&embeddedDemo=true"
-            frameborder="0"
-            allowFullScreen="true"
+            allowFullScreen={true}
           ></iframe>
           <p>Ejemplo</p>
           <iframe
@@ -27,8 +26,7 @@ const Page = () => {
             width="1140"
             height="800"
             src="https://playground.powerbi.com/sampleReportEmbed"
-            frameborder="0"
-            allowFullScreen="true"
+            allowFullScreen={true}
           ></iframe>
         </div>
       </div>
