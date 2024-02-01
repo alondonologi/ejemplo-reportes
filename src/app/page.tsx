@@ -8,6 +8,7 @@ export default function Home() {
             <a href="/powerbi">PowerBI</a>
             {/* <a href="/Google">Google Data studio</a> */}
             <a href="/tableau">Tableau</a>
+            <a href="/qlik">Qlik</a>
           </li>
         </ul>
       </div>
