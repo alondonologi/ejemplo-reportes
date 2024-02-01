@@ -9,7 +9,13 @@ const Page = () => {
           </a>
         </span>
         <div className="w-full flex flex-col gap-4 ">
-          <iframe src="https://iqzozkdk0o86ad0.us.qlikcloud.com/single/?appid=51c8d6ad-3ba4-4c2f-b508-4665d97f6d61&sheet=3337e68d-c051-4f25-95e7-f4830baea0e4&lang=es-ES&theme=breeze&bookmark=d225460e-fa51-49e6-b4bb-27231ff98b99&opt=nointeraction,noselections,currsel"></iframe>
+          <p>Custom</p>
+          <iframe
+            src="https://sense-demo.qlik.com/single/?appid=133dab5d-8f56-4d40-b3e0-a6b401391bde&sheet=kHgmg"
+            title="Sample Report Demo"
+            width="1140"
+            height="700"
+          ></iframe>
         </div>
       </div>
     </main>
